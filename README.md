@@ -1,1 +1,0 @@
-# Patica-veri-yapilari-ve-algoritmalar
